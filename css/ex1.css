@@ -1,0 +1,24 @@
+h1{
+    color:white;
+    text-align:center;
+    background-color:darkseagreen; 
+}
+
+body{
+    background-image: url("../images/haikei.png");
+}
+
+h2{
+    color:white;
+    text-align: center;
+    background-color:darkgreen;
+}
+
+tr{
+    background-color: antiquewhite;
+}
+
+ol{
+    background-image:url("../images/siro.jfif");
+}
+
