@@ -1,0 +1,18 @@
+h1{
+    text-align:center;
+    color:white;
+    background-color:black;
+}
+
+body{
+ background-image: url("../images/hqdefault.jpg");   
+}
+
+h2{
+    color:black;
+    text-align:center;
+    background-color: aquamarine;
+}
+h3{
+    color:blue
+}
