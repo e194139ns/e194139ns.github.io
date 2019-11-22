@@ -1,0 +1,27 @@
+body{
+    background-image:url("../images/haikei.png");
+}
+
+h1.title1{
+    text-align: center;
+    color:white;
+    background-color: brown;
+}
+
+h2.basketball{
+    text-align: center;
+    color:orange;
+    background-color: blue;
+}
+
+h2.eat{
+    text-align: center;
+    color:green;
+    background-color: antiquewhite;
+}
+
+h1.link{
+    text-align: center;
+    color:aquamarine;
+    background-color: floralwhite;    
+}
