@@ -8,6 +8,10 @@ body{
     background-image: url("../images/haikei.png");
 }
 
+img src = "images/sutaba.png"alt="スターバックス"{
+    background-position: center;
+}
+
 h2{
     color:white;
     text-align: center;
