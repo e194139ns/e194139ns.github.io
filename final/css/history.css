@@ -1,0 +1,217 @@
+body{
+    background-image:url("../images/starwars.jpg");
+}
+div.title{
+    width:1000px;
+    height:80px;
+}
+div.center{
+    width:1000px;
+    height:700px;
+    padding-top: 50px;
+}
+div.footer{
+    width:1000px;
+    height:80px;
+    display: inline-block;
+}
+div.text{
+    width:800px;
+    height:145px;
+    margin:auto;
+    margin-top: 50px;
+    margin-bottom:50px;
+    font-size:15px;
+    color:white;
+    text-align:center;
+    
+}
+div.MENU1{
+    width:800px;
+    height:150px;
+    margin:auto;
+}
+span.image1{
+    width:250px;
+    height:150px;
+    background-color:hotpink;
+    display:inline-block;
+    vertical-align: top;
+    font-size:50px;
+    text-align:center;
+    color:darkcyan;
+    font-weight:bold;  
+    background-image:url(../images/jordan.jpg);
+    background-position: center;
+    background-size:200px;
+}
+div.mask1{
+    height:100%;
+    background:rgba(255,25,205,0.5);
+}
+span.image2{
+    width:400px;
+    height:150px;
+    background-color: skyblue;
+    display:inline-block;
+    text-align: center;
+    font-size:43px;
+    vertical-align:top; 
+    background-image:url(../images/rui.jpg);
+    background-position:center;
+    background-size:220px;
+    background-repeat:no-repeat;
+}
+div.mask2{
+    height:100%;
+    background:rgba(255,255,255,0.5);
+}
+span.image3{
+    width:139px;
+    height:150px;
+    background-color: yellow;
+    display:inline-block;
+    vertical-align:top; 
+    text-align: center;
+    font-size:46px;
+    background-image:url(../images/hue.jpg);
+    background-position:center;
+    background-size:140px;
+}
+div.MENU2{
+    width:800px;
+    height:150px;
+    margin:auto;
+    margin-top:5px;
+}
+span.contents1{
+    width:195px;
+    height:150px;
+    background-color: darkmagenta;
+    display:inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-size:65px;
+    background-image:url(../images/clutch.jpg);
+    background-position:center;
+    background-size:310px;
+}
+div.mask4{
+    height:100%;
+    background: rgba(255,255,250,0.5);
+}
+span.contents2{
+    width:194px;
+    height:150px;
+    background-color: dimgray;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-size:65px;
+    background-image:url(../images/nba.jfif);
+    background-position:center;
+    background-size:250px;
+}
+div.mask5{
+    height: 100%;
+    background:rgba(250,250,250,0.5);
+}
+span.contents3{
+    width:400px;
+    height:150px;
+    background-color:darkcyan;
+    display:inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-size:55px;
+    background-image:url(../images/carmelo.jfif);
+    background-position:center;
+    background-size:300px;
+    background-repeat:no-repeat;
+}
+div.mask6{
+    height:100%;
+    background:rgba(250,250,250,0.5);
+}
+div.MENU3{
+    width:800px:
+    height:150px;
+    margin-left:100px;
+    margin-top:5px;
+}
+span.last1{
+    width:145px;
+    height:150px;
+    background-color:chartreuse;
+    display: inline-block;
+    vertical-align: top;
+    font-size:35px;
+    text-align: center;
+    background-image:url(../images/FIBA.jfif);
+    background-position:center;
+    background-size: 195px;
+}
+div.mask7{
+   height:100%;
+    background:rgba(200,200,200,0.3);
+}
+span.last2{
+    width:500px;
+    height:150px;
+    background-color: darkorange;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-size:50px;
+    background-image:url(../images/allstar.jfif);
+    background-position:center;
+    background-size:300px;
+    background-repeat:no-repeat;
+}
+div.mask8{
+    height:100%;
+    background:rgba(200,200,200,0.5)
+}
+span.last3{
+    width:145px;
+    height:150px;
+    background-color:firebrick;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-size:48px;
+    background-image:url(../images/2k.png);
+    background-position:center;
+    background-size:140px;
+}
+div.mask9{
+    height:100%;
+    background:rgba(200,200,200,0.3);
+}
+
+div.sentence{
+    height:3150px;
+    width:800px;
+    margin: auto;
+    margin-bottom: 50px;
+    text-align: center;
+}
+a.theme{
+    color:white;
+    font-size:50px;
+}
+p{
+    color: white
+}
+a.hitotume{
+    text-align: left;
+    font-size:20px;
+    color: yellow;
+}  
+span.name{
+    text-align:left;
+    color:#0ED2FF;
+}
+span.starwars{
+    margin-left:300px;
+}
